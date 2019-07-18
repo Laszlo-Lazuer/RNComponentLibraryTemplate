@@ -1,6 +1,6 @@
 {
-  "name": "RNComponentLibraryTemplate",
-  "version": "0.0.1",
+  "name": "react-native-component-library-template-demo",
+  "version": "0.0.13",
   "private": false,
   "description": "RN Component Library Template for NPM, within a project.",
   "main": "lib/index.js",
