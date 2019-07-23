@@ -17,7 +17,7 @@ Usage:
 ```
 const App = () => {
   return(
-      <View style={styles.container}>
+      <View>
         <ComponentOne />
         <ComponentTwo />
       </View>
